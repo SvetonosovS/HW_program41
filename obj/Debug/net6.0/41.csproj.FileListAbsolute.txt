@@ -1,0 +1,30 @@
+E:\C#\Example C#\41\bin\Debug\net6.0\41.exe
+E:\C#\Example C#\41\bin\Debug\net6.0\41.deps.json
+E:\C#\Example C#\41\bin\Debug\net6.0\41.runtimeconfig.json
+E:\C#\Example C#\41\bin\Debug\net6.0\41.dll
+E:\C#\Example C#\41\bin\Debug\net6.0\41.pdb
+E:\C#\Example C#\41\obj\Debug\net6.0\41.csproj.AssemblyReference.cache
+E:\C#\Example C#\41\obj\Debug\net6.0\41.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Example C#\41\obj\Debug\net6.0\41.AssemblyInfoInputs.cache
+E:\C#\Example C#\41\obj\Debug\net6.0\41.AssemblyInfo.cs
+E:\C#\Example C#\41\obj\Debug\net6.0\41.csproj.CoreCompileInputs.cache
+E:\C#\Example C#\41\obj\Debug\net6.0\41.dll
+E:\C#\Example C#\41\obj\Debug\net6.0\refint\41.dll
+E:\C#\Example C#\41\obj\Debug\net6.0\41.pdb
+E:\C#\Example C#\41\obj\Debug\net6.0\41.genruntimeconfig.cache
+E:\C#\Example C#\41\obj\Debug\net6.0\ref\41.dll
+E:\C#\Homework\Lesson_06_C#\41_Homework\bin\Debug\net6.0\41.exe
+E:\C#\Homework\Lesson_06_C#\41_Homework\bin\Debug\net6.0\41.deps.json
+E:\C#\Homework\Lesson_06_C#\41_Homework\bin\Debug\net6.0\41.runtimeconfig.json
+E:\C#\Homework\Lesson_06_C#\41_Homework\bin\Debug\net6.0\41.dll
+E:\C#\Homework\Lesson_06_C#\41_Homework\bin\Debug\net6.0\41.pdb
+E:\C#\Homework\Lesson_06_C#\41_Homework\obj\Debug\net6.0\41.csproj.AssemblyReference.cache
+E:\C#\Homework\Lesson_06_C#\41_Homework\obj\Debug\net6.0\41.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Homework\Lesson_06_C#\41_Homework\obj\Debug\net6.0\41.AssemblyInfoInputs.cache
+E:\C#\Homework\Lesson_06_C#\41_Homework\obj\Debug\net6.0\41.AssemblyInfo.cs
+E:\C#\Homework\Lesson_06_C#\41_Homework\obj\Debug\net6.0\41.csproj.CoreCompileInputs.cache
+E:\C#\Homework\Lesson_06_C#\41_Homework\obj\Debug\net6.0\41.dll
+E:\C#\Homework\Lesson_06_C#\41_Homework\obj\Debug\net6.0\refint\41.dll
+E:\C#\Homework\Lesson_06_C#\41_Homework\obj\Debug\net6.0\41.pdb
+E:\C#\Homework\Lesson_06_C#\41_Homework\obj\Debug\net6.0\41.genruntimeconfig.cache
+E:\C#\Homework\Lesson_06_C#\41_Homework\obj\Debug\net6.0\ref\41.dll
